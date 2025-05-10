@@ -1,0 +1,6 @@
+print("I am Hao")
+print("This is my secret")
+print("-I am the best writer in my class")
+print("-I am the best coder in my class")
+print("-I am the best artist in my class")
+print("-I am the best in my class")
